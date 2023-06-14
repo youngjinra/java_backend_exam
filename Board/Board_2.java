@@ -1,7 +1,7 @@
 package Board;
 
 import java.util.Scanner;
-
+//2
 public class Board_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

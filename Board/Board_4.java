@@ -3,7 +3,7 @@ package Board;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+//4
 public class Board_4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

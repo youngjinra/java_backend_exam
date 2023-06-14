@@ -5,7 +5,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+//7
 public class Board_7 {
     public static void main(String[] args) {
         //  Today
