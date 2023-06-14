@@ -3,11 +3,10 @@ package Board;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 
-public class       Board_11 {
+public class Board__11 {
     static Scanner sc = new Scanner(System.in);
     static List<String> titles = new ArrayList<>();
     static List<String> contents = new ArrayList<>();
